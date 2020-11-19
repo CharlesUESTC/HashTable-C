@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <time.h>
 #include "hash_sep.h"
 
 #define XXH_INLINE_ALL
